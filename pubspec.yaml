@@ -1,0 +1,23 @@
+name: keyrune_icons_flutter
+description: "Use keyrune MTG symbols in a flutter application."
+version: 0.0.1
+homepage: https://github.com/j7126/keyrune_icons_flutter
+
+environment:
+  sdk: '>=3.2.3 <4.0.0'
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  fonts:
+    - family:  keyrune
+      fonts:
+       - asset: fonts/keyrune.ttf
