@@ -19,8 +19,11 @@ dependencies:
 // import the package
 import 'package:keyrune_icons_flutter/keyrune_icons_flutter.dart';
 
-// use the icons
+// use the icons directly
 const Icon(KeyruneIcons.ss_10e)
+
+// use icons by string
+const Icon(KeyruneIcons.icons["10e"])
 ```
 
 Check out keyrune's [docs](https://keyrune.andrewgioia.com/icons.html) for available icons.
