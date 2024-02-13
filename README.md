@@ -28,6 +28,6 @@ Check out keyrune's [docs](https://keyrune.andrewgioia.com/icons.html) for avail
 
 ## License
 
-All set symbol images are trademarks of Wizards of the Coast ([http://magicthegathering.com](http://magicthegathering.com)). This package is lisenced under GNU AGPL v3.0 or later. 
+All set symbol images are trademarks of Wizards of the Coast ([http://magicthegathering.com](https://magicthegathering.com)). This package is lisenced under GNU AGPL v3.0 or later. 
 
 Please see keyrune's [LICENSE.md](https://github.com/andrewgioia/keyrune/blob/master/LICENSE.md) file for information about the keyrune icon font's license.
