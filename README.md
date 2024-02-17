@@ -10,7 +10,7 @@ This is a package which wraps the symbol font [keyrune](https://github.com/andre
 
 ```yaml
 dependencies:
-  keyrune_icons_flutter: ^0.0.1
+  keyrune_icons_flutter: ^0.0.2
 ```
 
 ## Usage
