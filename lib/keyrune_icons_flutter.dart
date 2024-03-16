@@ -1412,6 +1412,54 @@ class KeyruneIcons {
   static const IconData ss_zne =
       IconData(0xe97a, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
+  /// Icon for set "mkm"
+  static const IconData ss_mkm =
+      IconData(0xe9c9, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Icon for set "mkc"
+  static const IconData ss_mkc =
+      IconData(0xe9ca, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Icon for set "clu"
+  static const IconData ss_clu =
+      IconData(0xe9cb, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Icon for set "otj"
+  static const IconData ss_otj =
+      IconData(0xe9cc, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Icon for set "otc"
+  static const IconData ss_otc =
+      IconData(0xe9d2, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Icon for set "big"
+  static const IconData ss_big =
+      IconData(0xe9d6, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Icon for set "otp"
+  static const IconData ss_otp =
+      IconData(0xe9d5, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Icon for set "blb"
+  static const IconData ss_blb =
+      IconData(0xe9cd, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Icon for set "blc"
+  static const IconData ss_blc =
+      IconData(0xe9d4, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Icon for set "mh3"
+  static const IconData ss_mh3 =
+      IconData(0xe9cf, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Icon for set "m3c"
+  static const IconData ss_m3c =
+      IconData(0xe9d0, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Icon for set "acr"
+  static const IconData ss_acr =
+      IconData(0xe9ce, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
   /// All icons, organised by set codes
   static const Map<String, IconData> icons = {
     "10e": ss_10e,
@@ -1760,5 +1808,17 @@ class KeyruneIcons {
     "xice": ss_xice,
     "xmods": ss_xmods,
     "zne": ss_zne,
+    "mkm": ss_mkm,
+    "mkc": ss_mkc,
+    "clu": ss_clu,
+    "otj": ss_otj,
+    "otc": ss_otc,
+    "big": ss_big,
+    "otp": ss_otp,
+    "blb": ss_blb,
+    "blc": ss_blc,
+    "mh3": ss_mh3,
+    "m3c": ss_m3c,
+    "acr": ss_acr,
   };
 }
