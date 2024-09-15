@@ -1,3 +1,9 @@
+## 3.15.0
+
+* Keyrune update 3.15.0
+* Added Duskmourne set symbol
+* Added Foundations set symbol
+
 ## 3.14.0
 
 * Match keyrune verison number
