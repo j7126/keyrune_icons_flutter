@@ -1,3 +1,12 @@
+## 3.16.1
+
+* Keyrune update 3.16.1
+* Added Aetherdrift set symbol
+* Added Innistrad Remastered set symbol
+* Added Foundations Commander set symbol
+* Added Pioneer Masters set symbol
+* Added preliminary icon for Tarkir: Dragonstorm set symbol
+
 ## 3.15.0
 
 * Keyrune update 3.15.0

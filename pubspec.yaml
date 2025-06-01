@@ -1,6 +1,6 @@
 name: keyrune_icons_flutter
 description: "Magic: The Gathering set symbols from keyrune as icons in a flutter application."
-version: 3.15.0
+version: 3.16.1
 homepage: https://github.com/j7126/keyrune_icons_flutter
 
 environment:
@@ -14,7 +14,7 @@ dependencies:
 dev_dependencies:
   flutter_test:
     sdk: flutter
-  flutter_lints: ^3.0.1
+  flutter_lints: ^6.0.0
 
 flutter:
   fonts:

@@ -238,7 +238,7 @@ class KeyruneIcons {
 
   /// Icon for set "c16"
   static const IconData ss_c16 =
-      IconData(0xe910, fontFamily: _fontFamily, fontPackage: _fontPackage);
+      IconData(0xe9e5, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Icon for set "c17"
   static const IconData ss_c17 =
@@ -408,6 +408,10 @@ class KeyruneIcons {
   static const IconData ss_ddu =
       IconData(0xe93e, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
+  /// Icon for set "dft"
+  static const IconData ss_dft =
+      IconData(0xe9e0, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
   /// Icon for set "dgm"
   static const IconData ss_dgm =
       IconData(0xe64f, fontFamily: _fontFamily, fontPackage: _fontPackage);
@@ -436,6 +440,10 @@ class KeyruneIcons {
   static const IconData ss_dmc =
       IconData(0xe994, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
+  /// Icon for set "drc"
+  static const IconData ss_drc =
+      IconData(0xe9e8, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
   /// Icon for set "dom"
   static const IconData ss_dom =
       IconData(0xe93f, fontFamily: _fontFamily, fontPackage: _fontPackage);
@@ -451,6 +459,10 @@ class KeyruneIcons {
   /// Icon for set "drk"
   static const IconData ss_drk =
       IconData(0xe616, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Icon for set "dsc"
+  static const IconData ss_dsc =
+      IconData(0xe9dc, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Icon for set "dsk"
   static const IconData ss_dsk =
@@ -507,6 +519,10 @@ class KeyruneIcons {
   /// Icon for set "fem"
   static const IconData ss_fem =
       IconData(0xe617, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Icon for set "fdc"
+  static const IconData ss_fdc =
+      IconData(0xe9e4, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Icon for set "fdn"
   static const IconData ss_fdn =
@@ -600,6 +616,10 @@ class KeyruneIcons {
   static const IconData ss_ima =
       IconData(0xe935, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
+  /// Icon for set "inr"
+  static const IconData ss_inr =
+      IconData(0xe9e2, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
   /// Icon for set "inv"
   static const IconData ss_inv =
       IconData(0xe628, fontFamily: _fontFamily, fontPackage: _fontPackage);
@@ -619,6 +639,10 @@ class KeyruneIcons {
   /// Icon for set "j22"
   static const IconData ss_j22 =
       IconData(0xe9ad, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Icon for set "j25"
+  static const IconData ss_j25 =
+      IconData(0xe9df, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Icon for set "jmp"
   static const IconData ss_jmp =
@@ -735,6 +759,10 @@ class KeyruneIcons {
   /// Icon for set "mb1"
   static const IconData ss_mb1 =
       IconData(0xe971, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Icon for set "mb2"
+  static const IconData ss_mb2 =
+      IconData(0xe9d9, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Icon for set "mbs"
   static const IconData ss_mbs =
@@ -928,6 +956,10 @@ class KeyruneIcons {
   static const IconData ss_pd3 =
       IconData(0xe681, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
+  /// Icon for set "pio"
+  static const IconData ss_pio =
+      IconData(0xe9e7, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
   /// Icon for set "pip"
   static const IconData ss_pip =
       IconData(0xe9c3, fontFamily: _fontFamily, fontPackage: _fontPackage);
@@ -960,21 +992,21 @@ class KeyruneIcons {
   static const IconData ss_rav =
       IconData(0xe637, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
+  /// Icon for set "ren"
+  static const IconData ss_ren =
+      IconData(0xe917, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
   /// Icon for set "rex"
   static const IconData ss_rex =
       IconData(0xe9c4, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
+  /// Icon for set "rin"
+  static const IconData ss_rin =
+      IconData(0xe918, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
   /// Icon for set "rix"
   static const IconData ss_rix =
       IconData(0xe92f, fontFamily: _fontFamily, fontPackage: _fontPackage);
-
-  /// Icon for set "xren"
-  static const IconData ss_xren =
-      IconData(0xe917, fontFamily: _fontFamily, fontPackage: _fontPackage);
-
-  /// Icon for set "xrin"
-  static const IconData ss_xrin =
-      IconData(0xe918, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Icon for set "rna"
   static const IconData ss_rna =
@@ -1079,6 +1111,10 @@ class KeyruneIcons {
   /// Icon for set "td2"
   static const IconData ss_td2 =
       IconData(0xe91c, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Icon for set "tdm"
+  static const IconData ss_tdm =
+      IconData(0xe9e6, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Icon for set "thb"
   static const IconData ss_thb =
@@ -1252,9 +1288,17 @@ class KeyruneIcons {
   static const IconData ss_y22 =
       IconData(0xe989, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
+  /// Icon for set "y23"
+  static const IconData ss_y23 =
+      IconData(0xe9a7, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
   /// Icon for set "y24"
   static const IconData ss_y24 =
       IconData(0xe9bd, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Icon for set "y25"
+  static const IconData ss_y25 =
+      IconData(0xe9da, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Icon for set "ydmu"
   static const IconData ss_ydmu =
@@ -1323,6 +1367,10 @@ class KeyruneIcons {
   /// Icon for set "htr17"
   static const IconData ss_htr17 =
       IconData(0xe687, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Icon for set "j25a"
+  static const IconData ss_j25a =
+      IconData(0xe9db, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Icon for set "papac"
   static const IconData ss_papac =
@@ -1565,6 +1613,7 @@ class KeyruneIcons {
     "dds": ss_dds,
     "ddt": ss_ddt,
     "ddu": ss_ddu,
+    "dft": ss_dft,
     "dgm": ss_dgm,
     "dis": ss_dis,
     "dka": ss_dka,
@@ -1572,10 +1621,12 @@ class KeyruneIcons {
     "dmr": ss_dmr,
     "dmu": ss_dmu,
     "dmc": ss_dmc,
+    "drc": ss_drc,
     "dom": ss_dom,
     "dpa": ss_dpa,
     "drb": ss_drb,
     "drk": ss_drk,
+    "dsc": ss_dsc,
     "dsk": ss_dsk,
     "dst": ss_dst,
     "dtk": ss_dtk,
@@ -1590,6 +1641,7 @@ class KeyruneIcons {
     "exo": ss_exo,
     "exp": ss_exp,
     "fem": ss_fem,
+    "fdc": ss_fdc,
     "fdn": ss_fdn,
     "frf": ss_frf,
     "fut": ss_fut,
@@ -1613,11 +1665,13 @@ class KeyruneIcons {
     "ice2": ss_ice2,
     "iko": ss_iko,
     "ima": ss_ima,
+    "inr": ss_inr,
     "inv": ss_inv,
     "isd": ss_isd,
     "j20": ss_j20,
     "j21": ss_j21,
     "j22": ss_j22,
+    "j25": ss_j25,
     "jmp": ss_jmp,
     "jou": ss_jou,
     "jud": ss_jud,
@@ -1647,6 +1701,7 @@ class KeyruneIcons {
     "m3c": ss_m3c,
     "mat": ss_mat,
     "mb1": ss_mb1,
+    "mb2": ss_mb2,
     "mbs": ss_mbs,
     "md1": ss_md1,
     "me1": ss_me1,
@@ -1695,6 +1750,7 @@ class KeyruneIcons {
     "pcy": ss_pcy,
     "pd2": ss_pd2,
     "pd3": ss_pd3,
+    "pio": ss_pio,
     "pip": ss_pip,
     "plc": ss_plc,
     "pls": ss_pls,
@@ -1703,10 +1759,10 @@ class KeyruneIcons {
     "ptg": ss_ptg,
     "ptk": ss_ptk,
     "rav": ss_rav,
+    "ren": ss_ren,
     "rex": ss_rex,
+    "rin": ss_rin,
     "rix": ss_rix,
-    "xren": ss_xren,
-    "xrin": ss_xrin,
     "rna": ss_rna,
     "roe": ss_roe,
     "rtr": ss_rtr,
@@ -1733,6 +1789,7 @@ class KeyruneIcons {
     "sth": ss_sth,
     "stx": ss_stx,
     "td2": ss_td2,
+    "tdm": ss_tdm,
     "thb": ss_thb,
     "ths": ss_ths,
     "tmp": ss_tmp,
@@ -1776,7 +1833,9 @@ class KeyruneIcons {
     "wwk": ss_wwk,
     "xln": ss_xln,
     "y22": ss_y22,
+    "y23": ss_y23,
     "y24": ss_y24,
+    "y25": ss_y25,
     "ydmu": ss_ydmu,
     "zen": ss_zen,
     "znc": ss_znc,
@@ -1794,6 +1853,7 @@ class KeyruneIcons {
     "bcore": ss_bcore,
     "htr": ss_htr,
     "htr17": ss_htr17,
+    "j25a": ss_j25a,
     "papac": ss_papac,
     "parl": ss_parl,
     "parl2": ss_parl2,
