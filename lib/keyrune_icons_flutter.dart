@@ -1,6 +1,6 @@
 /*
     Keyrune Icons Flutter
-    Copyright (C) 2024 Jefferey Neuffer
+    Copyright (C) 2025 Jefferey Neuffer
 
     This program is free software: you can redistribute it and/or modify
     it under the terms of the GNU Affero General Public License as published by
@@ -476,6 +476,10 @@ class KeyruneIcons {
   static const IconData ss_dtk =
       IconData(0xe693, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
+  /// Icon for set "dvk"
+  static const IconData ss_dvk =
+      IconData(0xea03, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
   /// Icon for set "e01"
   static const IconData ss_e01 =
       IconData(0xe92d, fontFamily: _fontFamily, fontPackage: _fontPackage);
@@ -500,6 +504,18 @@ class KeyruneIcons {
   static const IconData ss_emn =
       IconData(0xe90b, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
+  /// Icon for set "eoc"
+  static const IconData ss_eoc =
+      IconData(0xe9f6, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Icon for set "eoe"
+  static const IconData ss_eoe =
+      IconData(0xe9f0, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Icon for set "eos"
+  static const IconData ss_eos =
+      IconData(0xea00, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
   /// Icon for set "eve"
   static const IconData ss_eve =
       IconData(0xe640, fontFamily: _fontFamily, fontPackage: _fontPackage);
@@ -516,6 +532,10 @@ class KeyruneIcons {
   static const IconData ss_exp =
       IconData(0xe69a, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
+  /// Icon for set "fca"
+  static const IconData ss_fca =
+      IconData(0xe9f8, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
   /// Icon for set "fem"
   static const IconData ss_fem =
       IconData(0xe617, fontFamily: _fontFamily, fontPackage: _fontPackage);
@@ -527,6 +547,14 @@ class KeyruneIcons {
   /// Icon for set "fdn"
   static const IconData ss_fdn =
       IconData(0xe9d8, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Icon for set "fic"
+  static const IconData ss_fic =
+      IconData(0xe9f5, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Icon for set "fin"
+  static const IconData ss_fin =
+      IconData(0xe9ed, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Icon for set "frf"
   static const IconData ss_frf =
@@ -972,6 +1000,14 @@ class KeyruneIcons {
   static const IconData ss_pls =
       IconData(0xe629, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
+  /// Icon for set "pma"
+  static const IconData ss_pma =
+      IconData(0xea01, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Icon for set "pm2"
+  static const IconData ss_pm2 =
+      IconData(0xea02, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
   /// Icon for set "po2"
   static const IconData ss_po2 =
       IconData(0xe665, fontFamily: _fontFamily, fontPackage: _fontPackage);
@@ -1080,9 +1116,17 @@ class KeyruneIcons {
   static const IconData ss_som =
       IconData(0xe647, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
+  /// Icon for set "spe"
+  static const IconData ss_spe =
+      IconData(0xe9f3, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
   /// Icon for set "spg"
   static const IconData ss_spg =
       IconData(0xe9c8, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Icon for set "spm"
+  static const IconData ss_spm =
+      IconData(0xe9f1, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Icon for set "ss1"
   static const IconData ss_ss1 =
@@ -1112,6 +1156,10 @@ class KeyruneIcons {
   static const IconData ss_td2 =
       IconData(0xe91c, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
+  /// Icon for set "tdc"
+  static const IconData ss_tdc =
+      IconData(0xe9f4, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
   /// Icon for set "tdm"
   static const IconData ss_tdm =
       IconData(0xe9e6, fontFamily: _fontFamily, fontPackage: _fontPackage);
@@ -1123,6 +1171,10 @@ class KeyruneIcons {
   /// Icon for set "ths"
   static const IconData ss_ths =
       IconData(0xe650, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Icon for set "tla"
+  static const IconData ss_tla =
+      IconData(0xe9fb, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
   /// Icon for set "tmp"
   static const IconData ss_tmp =
@@ -1630,19 +1682,26 @@ class KeyruneIcons {
     "dsk": ss_dsk,
     "dst": ss_dst,
     "dtk": ss_dtk,
+    "dvk": ss_dvk,
     "e01": ss_e01,
     "e02": ss_e02,
     "ea1": ss_ea1,
     "eld": ss_eld,
     "ema": ss_ema,
     "emn": ss_emn,
+    "eoc": ss_eoc,
+    "eoe": ss_eoe,
+    "eos": ss_eos,
     "eve": ss_eve,
     "evg": ss_evg,
     "exo": ss_exo,
     "exp": ss_exp,
+    "fca": ss_fca,
     "fem": ss_fem,
     "fdc": ss_fdc,
     "fdn": ss_fdn,
+    "fic": ss_fic,
+    "fin": ss_fin,
     "frf": ss_frf,
     "fut": ss_fut,
     "gk1": ss_gk1,
@@ -1754,6 +1813,8 @@ class KeyruneIcons {
     "pip": ss_pip,
     "plc": ss_plc,
     "pls": ss_pls,
+    "pma": ss_pma,
+    "pm2": ss_pm2,
     "po2": ss_po2,
     "por": ss_por,
     "ptg": ss_ptg,
@@ -1781,7 +1842,9 @@ class KeyruneIcons {
     "soi": ss_soi,
     "sok": ss_sok,
     "som": ss_som,
+    "spe": ss_spe,
     "spg": ss_spg,
+    "spm": ss_spm,
     "ss1": ss_ss1,
     "ss2": ss_ss2,
     "ss3": ss_ss3,
@@ -1789,9 +1852,11 @@ class KeyruneIcons {
     "sth": ss_sth,
     "stx": ss_stx,
     "td2": ss_td2,
+    "tdc": ss_tdc,
     "tdm": ss_tdm,
     "thb": ss_thb,
     "ths": ss_ths,
+    "tla": ss_tla,
     "tmp": ss_tmp,
     "tor": ss_tor,
     "tpr": ss_tpr,
